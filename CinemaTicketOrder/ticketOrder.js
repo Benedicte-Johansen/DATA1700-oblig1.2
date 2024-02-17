@@ -111,7 +111,6 @@ function addTicketsToArray(){
             ut += "</tr>"
         }
         document.getElementById("ticketArray").innerHTML = ut;
-        //form.reset();
     }
 }
 
